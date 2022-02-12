@@ -1,0 +1,23 @@
+.main{
+	background-color: black;
+	font-size: 25px;
+	color: white;
+	
+	width: 40%;
+	height: 60%;
+    display: flex;
+    position: absolute;
+    margin-left: 28%;
+    margin-top: 5%;
+    justify-items: center;
+}
+body{
+	background-color: black;
+}
+.description{
+	color: greenyellow;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 3px;
+    font-family:Lucida Handwriting, serif;
+}
